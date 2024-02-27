@@ -13,10 +13,6 @@ listing:
     contents: "People/Mentoring/*.qmd"
     type: grid
     
-  - id: Alumni
-    contents: "People/Alumni/*.qmd"
-    type: grid
-    
     grid-columns: 3
     categories: true
     feed: true
