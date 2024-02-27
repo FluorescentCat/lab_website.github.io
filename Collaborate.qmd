@@ -2,7 +2,7 @@
 title: "Collaborators"
 listing:
   id: Partners
-  contents: Partners/*.qmd
+  contents: People/*.qmd
   sort: "date desc"
   type: grid
   grid-columns: 3
